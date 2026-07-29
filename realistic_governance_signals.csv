@@ -1,0 +1,1081 @@
+environment,company_id,month,monthly_report_submitted_on_time,days_late_reporting,leadership_turnover_event,auditor_changed_event
+Stable Market,OXC-001,2024-08-01,1,0,0,0
+Stable Market,OXC-001,2024-09-01,1,0,0,0
+Stable Market,OXC-001,2024-10-01,1,0,0,0
+Stable Market,OXC-001,2024-11-01,1,0,0,0
+Stable Market,OXC-001,2024-12-01,0,17,0,0
+Stable Market,OXC-001,2025-01-01,1,0,0,0
+Stable Market,OXC-001,2025-02-01,1,0,0,0
+Stable Market,OXC-001,2025-03-01,1,0,0,0
+Stable Market,OXC-001,2025-04-01,1,0,0,0
+Stable Market,OXC-001,2025-05-01,1,0,0,0
+Stable Market,OXC-001,2025-06-01,0,4,0,0
+Stable Market,OXC-001,2025-07-01,1,0,0,0
+Stable Market,OXC-001,2025-08-01,1,0,0,0
+Stable Market,OXC-001,2025-09-01,1,0,0,0
+Stable Market,OXC-001,2025-10-01,1,0,0,0
+Stable Market,OXC-001,2025-11-01,1,0,0,0
+Stable Market,OXC-001,2025-12-01,1,0,0,0
+Stable Market,OXC-001,2026-01-01,1,0,0,0
+Stable Market,OXC-001,2026-02-01,1,0,0,0
+Stable Market,OXC-001,2026-03-01,1,0,0,0
+Stable Market,OXC-001,2026-04-01,1,0,0,0
+Stable Market,OXC-001,2026-05-01,0,10,0,0
+Stable Market,OXC-001,2026-06-01,1,0,0,0
+Stable Market,OXC-001,2026-07-01,1,0,0,0
+Stable Market,OXC-002,2024-08-01,1,0,0,0
+Stable Market,OXC-002,2024-09-01,1,0,0,0
+Stable Market,OXC-002,2024-10-01,1,0,0,0
+Stable Market,OXC-002,2024-11-01,1,0,0,0
+Stable Market,OXC-002,2024-12-01,1,0,0,0
+Stable Market,OXC-002,2025-01-01,1,0,0,0
+Stable Market,OXC-002,2025-02-01,0,2,0,0
+Stable Market,OXC-002,2025-03-01,1,0,0,0
+Stable Market,OXC-002,2025-04-01,1,0,0,0
+Stable Market,OXC-002,2025-05-01,1,0,0,0
+Stable Market,OXC-002,2025-06-01,1,0,0,0
+Stable Market,OXC-002,2025-07-01,0,14,0,0
+Stable Market,OXC-002,2025-08-01,1,0,0,0
+Stable Market,OXC-002,2025-09-01,1,0,0,0
+Stable Market,OXC-002,2025-10-01,1,0,0,0
+Stable Market,OXC-002,2025-11-01,1,0,0,0
+Stable Market,OXC-002,2025-12-01,1,0,0,0
+Stable Market,OXC-002,2026-01-01,1,0,0,0
+Stable Market,OXC-002,2026-02-01,1,0,0,0
+Stable Market,OXC-002,2026-03-01,1,0,0,0
+Stable Market,OXC-002,2026-04-01,1,0,0,0
+Stable Market,OXC-002,2026-05-01,1,0,0,0
+Stable Market,OXC-002,2026-06-01,1,0,0,0
+Stable Market,OXC-002,2026-07-01,1,0,0,0
+Stable Market,OXC-003,2024-08-01,1,0,0,0
+Stable Market,OXC-003,2024-09-01,1,0,0,0
+Stable Market,OXC-003,2024-10-01,1,0,1,0
+Stable Market,OXC-003,2024-11-01,0,2,0,0
+Stable Market,OXC-003,2024-12-01,1,0,0,0
+Stable Market,OXC-003,2025-01-01,0,10,0,0
+Stable Market,OXC-003,2025-02-01,1,0,0,0
+Stable Market,OXC-003,2025-03-01,1,0,0,0
+Stable Market,OXC-003,2025-04-01,1,0,0,0
+Stable Market,OXC-003,2025-05-01,1,0,0,0
+Stable Market,OXC-003,2025-06-01,1,0,0,0
+Stable Market,OXC-003,2025-07-01,0,5,0,0
+Stable Market,OXC-003,2025-08-01,1,0,0,0
+Stable Market,OXC-003,2025-09-01,1,0,0,0
+Stable Market,OXC-003,2025-10-01,1,0,0,0
+Stable Market,OXC-003,2025-11-01,1,0,0,0
+Stable Market,OXC-003,2025-12-01,1,0,0,0
+Stable Market,OXC-003,2026-01-01,1,0,0,0
+Stable Market,OXC-003,2026-02-01,1,0,0,0
+Stable Market,OXC-003,2026-03-01,1,0,0,0
+Stable Market,OXC-003,2026-04-01,1,0,0,0
+Stable Market,OXC-003,2026-05-01,1,0,0,0
+Stable Market,OXC-003,2026-06-01,1,0,0,0
+Stable Market,OXC-003,2026-07-01,1,0,0,0
+Stable Market,OXC-004,2024-08-01,1,0,0,0
+Stable Market,OXC-004,2024-09-01,1,0,0,0
+Stable Market,OXC-004,2024-10-01,1,0,0,0
+Stable Market,OXC-004,2024-11-01,1,0,0,0
+Stable Market,OXC-004,2024-12-01,1,0,0,0
+Stable Market,OXC-004,2025-01-01,1,0,0,0
+Stable Market,OXC-004,2025-02-01,1,0,0,0
+Stable Market,OXC-004,2025-03-01,1,0,0,0
+Stable Market,OXC-004,2025-04-01,1,0,0,0
+Stable Market,OXC-004,2025-05-01,1,0,0,0
+Stable Market,OXC-004,2025-06-01,1,0,0,1
+Stable Market,OXC-004,2025-07-01,0,9,0,0
+Stable Market,OXC-004,2025-08-01,1,0,1,0
+Stable Market,OXC-004,2025-09-01,1,0,1,0
+Stable Market,OXC-004,2025-10-01,0,7,0,0
+Stable Market,OXC-004,2025-11-01,1,0,0,0
+Stable Market,OXC-004,2025-12-01,0,2,0,0
+Stable Market,OXC-004,2026-01-01,1,0,0,0
+Stable Market,OXC-004,2026-02-01,0,2,0,0
+Stable Market,OXC-004,2026-03-01,1,0,0,0
+Stable Market,OXC-004,2026-04-01,1,0,0,0
+Stable Market,OXC-004,2026-05-01,0,1,0,0
+Stable Market,OXC-004,2026-06-01,0,10,0,0
+Stable Market,OXC-004,2026-07-01,0,12,0,0
+Stable Market,OXC-005,2024-08-01,1,0,0,0
+Stable Market,OXC-005,2024-09-01,1,0,0,0
+Stable Market,OXC-005,2024-10-01,0,18,0,0
+Stable Market,OXC-005,2024-11-01,1,0,0,0
+Stable Market,OXC-005,2024-12-01,1,0,0,0
+Stable Market,OXC-005,2025-01-01,0,16,0,0
+Stable Market,OXC-005,2025-02-01,0,6,0,0
+Stable Market,OXC-005,2025-03-01,1,0,0,0
+Stable Market,OXC-005,2025-04-01,1,0,0,0
+Stable Market,OXC-005,2025-05-01,1,0,0,0
+Stable Market,OXC-005,2025-06-01,1,0,0,0
+Stable Market,OXC-005,2025-07-01,1,0,0,0
+Stable Market,OXC-005,2025-08-01,0,14,1,0
+Stable Market,OXC-005,2025-09-01,1,0,0,0
+Stable Market,OXC-005,2025-10-01,1,0,0,0
+Stable Market,OXC-005,2025-11-01,1,0,0,0
+Stable Market,OXC-005,2025-12-01,0,6,0,0
+Stable Market,OXC-005,2026-01-01,1,0,0,0
+Stable Market,OXC-005,2026-02-01,0,1,0,0
+Stable Market,OXC-005,2026-03-01,1,0,0,0
+Stable Market,OXC-005,2026-04-01,1,0,0,0
+Stable Market,OXC-005,2026-05-01,0,3,0,0
+Stable Market,OXC-005,2026-06-01,1,0,0,0
+Stable Market,OXC-005,2026-07-01,0,1,0,0
+Stable Market,OXC-006,2024-08-01,1,0,0,0
+Stable Market,OXC-006,2024-09-01,0,4,0,0
+Stable Market,OXC-006,2024-10-01,1,0,0,0
+Stable Market,OXC-006,2024-11-01,0,10,0,0
+Stable Market,OXC-006,2024-12-01,1,0,0,0
+Stable Market,OXC-006,2025-01-01,1,0,0,0
+Stable Market,OXC-006,2025-02-01,1,0,0,0
+Stable Market,OXC-006,2025-03-01,1,0,0,0
+Stable Market,OXC-006,2025-04-01,1,0,0,0
+Stable Market,OXC-006,2025-05-01,1,0,0,0
+Stable Market,OXC-006,2025-06-01,1,0,0,0
+Stable Market,OXC-006,2025-07-01,0,12,0,0
+Stable Market,OXC-006,2025-08-01,1,0,0,0
+Stable Market,OXC-006,2025-09-01,1,0,0,0
+Stable Market,OXC-006,2025-10-01,1,0,0,0
+Stable Market,OXC-006,2025-11-01,1,0,0,0
+Stable Market,OXC-006,2025-12-01,1,0,0,0
+Stable Market,OXC-006,2026-01-01,1,0,0,0
+Stable Market,OXC-006,2026-02-01,1,0,0,0
+Stable Market,OXC-006,2026-03-01,1,0,0,0
+Stable Market,OXC-006,2026-04-01,1,0,0,0
+Stable Market,OXC-006,2026-05-01,1,0,0,0
+Stable Market,OXC-006,2026-06-01,1,0,0,0
+Stable Market,OXC-006,2026-07-01,1,0,0,0
+Stable Market,OXC-007,2024-08-01,1,0,0,0
+Stable Market,OXC-007,2024-09-01,1,0,0,0
+Stable Market,OXC-007,2024-10-01,1,0,0,0
+Stable Market,OXC-007,2024-11-01,0,12,0,0
+Stable Market,OXC-007,2024-12-01,1,0,0,0
+Stable Market,OXC-007,2025-01-01,1,0,0,0
+Stable Market,OXC-007,2025-02-01,1,0,0,0
+Stable Market,OXC-007,2025-03-01,1,0,0,0
+Stable Market,OXC-007,2025-04-01,0,1,0,0
+Stable Market,OXC-007,2025-05-01,1,0,0,0
+Stable Market,OXC-007,2025-06-01,1,0,0,0
+Stable Market,OXC-007,2025-07-01,1,0,0,0
+Stable Market,OXC-007,2025-08-01,1,0,0,0
+Stable Market,OXC-007,2025-09-01,1,0,0,0
+Stable Market,OXC-007,2025-10-01,1,0,0,0
+Stable Market,OXC-007,2025-11-01,0,4,0,0
+Stable Market,OXC-007,2025-12-01,1,0,0,0
+Stable Market,OXC-007,2026-01-01,1,0,0,0
+Stable Market,OXC-007,2026-02-01,1,0,0,0
+Stable Market,OXC-007,2026-03-01,0,9,0,0
+Stable Market,OXC-007,2026-04-01,1,0,0,0
+Stable Market,OXC-007,2026-05-01,1,0,1,0
+Stable Market,OXC-007,2026-06-01,0,6,0,0
+Stable Market,OXC-007,2026-07-01,1,0,0,0
+Stable Market,OXC-008,2024-08-01,1,0,0,0
+Stable Market,OXC-008,2024-09-01,1,0,0,0
+Stable Market,OXC-008,2024-10-01,1,0,0,0
+Stable Market,OXC-008,2024-11-01,1,0,0,0
+Stable Market,OXC-008,2024-12-01,1,0,0,0
+Stable Market,OXC-008,2025-01-01,1,0,0,0
+Stable Market,OXC-008,2025-02-01,1,0,0,0
+Stable Market,OXC-008,2025-03-01,1,0,0,0
+Stable Market,OXC-008,2025-04-01,1,0,0,0
+Stable Market,OXC-008,2025-05-01,1,0,0,0
+Stable Market,OXC-008,2025-06-01,0,17,0,0
+Stable Market,OXC-008,2025-07-01,1,0,0,0
+Stable Market,OXC-008,2025-08-01,1,0,0,0
+Stable Market,OXC-008,2025-09-01,1,0,0,0
+Stable Market,OXC-008,2025-10-01,1,0,0,0
+Stable Market,OXC-008,2025-11-01,1,0,0,0
+Stable Market,OXC-008,2025-12-01,1,0,0,0
+Stable Market,OXC-008,2026-01-01,1,0,0,0
+Stable Market,OXC-008,2026-02-01,1,0,0,0
+Stable Market,OXC-008,2026-03-01,1,0,0,0
+Stable Market,OXC-008,2026-04-01,1,0,0,0
+Stable Market,OXC-008,2026-05-01,1,0,0,0
+Stable Market,OXC-008,2026-06-01,1,0,0,0
+Stable Market,OXC-008,2026-07-01,1,0,0,0
+Stable Market,OXC-009,2024-08-01,1,0,0,0
+Stable Market,OXC-009,2024-09-01,0,2,0,0
+Stable Market,OXC-009,2024-10-01,1,0,0,0
+Stable Market,OXC-009,2024-11-01,1,0,0,0
+Stable Market,OXC-009,2024-12-01,1,0,0,1
+Stable Market,OXC-009,2025-01-01,1,0,0,1
+Stable Market,OXC-009,2025-02-01,0,7,1,0
+Stable Market,OXC-009,2025-03-01,1,0,1,0
+Stable Market,OXC-009,2025-04-01,0,7,0,0
+Stable Market,OXC-009,2025-05-01,0,2,0,0
+Stable Market,OXC-009,2025-06-01,1,0,0,0
+Stable Market,OXC-009,2025-07-01,0,7,0,0
+Stable Market,OXC-009,2025-08-01,0,7,0,0
+Stable Market,OXC-009,2025-09-01,0,10,0,0
+Stable Market,OXC-009,2025-10-01,1,0,0,0
+Stable Market,OXC-009,2025-11-01,0,13,0,0
+Stable Market,OXC-009,2025-12-01,0,15,0,0
+Stable Market,OXC-009,2026-01-01,0,5,0,0
+Stable Market,OXC-009,2026-02-01,0,17,0,0
+Stable Market,OXC-009,2026-03-01,1,0,0,0
+Stable Market,OXC-009,2026-04-01,0,12,0,0
+Stable Market,OXC-009,2026-05-01,1,0,0,0
+Stable Market,OXC-009,2026-06-01,1,0,0,0
+Stable Market,OXC-009,2026-07-01,0,4,0,0
+Stable Market,OXC-010,2024-08-01,0,8,0,0
+Stable Market,OXC-010,2024-09-01,1,0,0,0
+Stable Market,OXC-010,2024-10-01,1,0,0,0
+Stable Market,OXC-010,2024-11-01,1,0,0,0
+Stable Market,OXC-010,2024-12-01,1,0,0,0
+Stable Market,OXC-010,2025-01-01,1,0,0,0
+Stable Market,OXC-010,2025-02-01,1,0,0,0
+Stable Market,OXC-010,2025-03-01,1,0,0,0
+Stable Market,OXC-010,2025-04-01,1,0,0,0
+Stable Market,OXC-010,2025-05-01,1,0,0,0
+Stable Market,OXC-010,2025-06-01,1,0,0,0
+Stable Market,OXC-010,2025-07-01,1,0,0,0
+Stable Market,OXC-010,2025-08-01,1,0,0,0
+Stable Market,OXC-010,2025-09-01,0,7,0,0
+Stable Market,OXC-010,2025-10-01,1,0,0,0
+Stable Market,OXC-010,2025-11-01,1,0,0,0
+Stable Market,OXC-010,2025-12-01,1,0,0,0
+Stable Market,OXC-010,2026-01-01,1,0,0,0
+Stable Market,OXC-010,2026-02-01,0,2,0,0
+Stable Market,OXC-010,2026-03-01,1,0,0,0
+Stable Market,OXC-010,2026-04-01,1,0,0,0
+Stable Market,OXC-010,2026-05-01,1,0,0,0
+Stable Market,OXC-010,2026-06-01,1,0,0,0
+Stable Market,OXC-010,2026-07-01,1,0,0,0
+Stable Market,OXC-011,2024-08-01,1,0,0,0
+Stable Market,OXC-011,2024-09-01,1,0,0,0
+Stable Market,OXC-011,2024-10-01,1,0,0,0
+Stable Market,OXC-011,2024-11-01,1,0,0,0
+Stable Market,OXC-011,2024-12-01,1,0,0,0
+Stable Market,OXC-011,2025-01-01,1,0,0,0
+Stable Market,OXC-011,2025-02-01,0,15,0,0
+Stable Market,OXC-011,2025-03-01,1,0,0,0
+Stable Market,OXC-011,2025-04-01,1,0,0,0
+Stable Market,OXC-011,2025-05-01,1,0,0,0
+Stable Market,OXC-011,2025-06-01,1,0,0,0
+Stable Market,OXC-011,2025-07-01,1,0,0,0
+Stable Market,OXC-011,2025-08-01,1,0,0,0
+Stable Market,OXC-011,2025-09-01,1,0,0,0
+Stable Market,OXC-011,2025-10-01,1,0,0,0
+Stable Market,OXC-011,2025-11-01,1,0,0,0
+Stable Market,OXC-011,2025-12-01,1,0,0,0
+Stable Market,OXC-011,2026-01-01,1,0,0,0
+Stable Market,OXC-011,2026-02-01,1,0,0,0
+Stable Market,OXC-011,2026-03-01,1,0,0,0
+Stable Market,OXC-011,2026-04-01,1,0,0,0
+Stable Market,OXC-011,2026-05-01,1,0,0,0
+Stable Market,OXC-011,2026-06-01,1,0,0,0
+Stable Market,OXC-011,2026-07-01,1,0,0,0
+Stable Market,OXC-012,2024-08-01,1,0,0,0
+Stable Market,OXC-012,2024-09-01,1,0,0,0
+Stable Market,OXC-012,2024-10-01,1,0,0,0
+Stable Market,OXC-012,2024-11-01,1,0,0,0
+Stable Market,OXC-012,2024-12-01,1,0,0,0
+Stable Market,OXC-012,2025-01-01,1,0,0,0
+Stable Market,OXC-012,2025-02-01,1,0,0,0
+Stable Market,OXC-012,2025-03-01,1,0,0,0
+Stable Market,OXC-012,2025-04-01,0,1,0,0
+Stable Market,OXC-012,2025-05-01,1,0,0,0
+Stable Market,OXC-012,2025-06-01,1,0,0,0
+Stable Market,OXC-012,2025-07-01,1,0,0,0
+Stable Market,OXC-012,2025-08-01,1,0,0,0
+Stable Market,OXC-012,2025-09-01,1,0,0,0
+Stable Market,OXC-012,2025-10-01,1,0,0,0
+Stable Market,OXC-012,2025-11-01,1,0,0,0
+Stable Market,OXC-012,2025-12-01,1,0,0,0
+Stable Market,OXC-012,2026-01-01,1,0,0,0
+Stable Market,OXC-012,2026-02-01,1,0,0,0
+Stable Market,OXC-012,2026-03-01,1,0,0,0
+Stable Market,OXC-012,2026-04-01,1,0,0,0
+Stable Market,OXC-012,2026-05-01,1,0,0,0
+Stable Market,OXC-012,2026-06-01,1,0,0,0
+Stable Market,OXC-012,2026-07-01,1,0,0,0
+Stable Market,OXC-013,2024-08-01,1,0,0,0
+Stable Market,OXC-013,2024-09-01,1,0,0,0
+Stable Market,OXC-013,2024-10-01,1,0,0,0
+Stable Market,OXC-013,2024-11-01,1,0,0,0
+Stable Market,OXC-013,2024-12-01,1,0,0,0
+Stable Market,OXC-013,2025-01-01,1,0,0,0
+Stable Market,OXC-013,2025-02-01,1,0,0,0
+Stable Market,OXC-013,2025-03-01,1,0,0,0
+Stable Market,OXC-013,2025-04-01,1,0,0,0
+Stable Market,OXC-013,2025-05-01,1,0,0,0
+Stable Market,OXC-013,2025-06-01,1,0,0,0
+Stable Market,OXC-013,2025-07-01,1,0,0,0
+Stable Market,OXC-013,2025-08-01,1,0,0,0
+Stable Market,OXC-013,2025-09-01,1,0,0,0
+Stable Market,OXC-013,2025-10-01,1,0,0,0
+Stable Market,OXC-013,2025-11-01,1,0,0,0
+Stable Market,OXC-013,2025-12-01,1,0,0,0
+Stable Market,OXC-013,2026-01-01,1,0,0,0
+Stable Market,OXC-013,2026-02-01,1,0,0,0
+Stable Market,OXC-013,2026-03-01,1,0,1,0
+Stable Market,OXC-013,2026-04-01,1,0,0,0
+Stable Market,OXC-013,2026-05-01,1,0,0,0
+Stable Market,OXC-013,2026-06-01,1,0,0,0
+Stable Market,OXC-013,2026-07-01,1,0,0,0
+Stable Market,OXC-014,2024-08-01,1,0,0,0
+Stable Market,OXC-014,2024-09-01,1,0,0,0
+Stable Market,OXC-014,2024-10-01,1,0,0,0
+Stable Market,OXC-014,2024-11-01,1,0,0,0
+Stable Market,OXC-014,2024-12-01,1,0,0,0
+Stable Market,OXC-014,2025-01-01,1,0,0,0
+Stable Market,OXC-014,2025-02-01,1,0,0,0
+Stable Market,OXC-014,2025-03-01,1,0,0,0
+Stable Market,OXC-014,2025-04-01,1,0,0,0
+Stable Market,OXC-014,2025-05-01,1,0,0,0
+Stable Market,OXC-014,2025-06-01,0,4,0,0
+Stable Market,OXC-014,2025-07-01,1,0,0,0
+Stable Market,OXC-014,2025-08-01,1,0,0,0
+Stable Market,OXC-014,2025-09-01,0,5,0,0
+Stable Market,OXC-014,2025-10-01,1,0,0,0
+Stable Market,OXC-014,2025-11-01,1,0,0,0
+Stable Market,OXC-014,2025-12-01,1,0,0,0
+Stable Market,OXC-014,2026-01-01,1,0,0,0
+Stable Market,OXC-014,2026-02-01,1,0,0,0
+Stable Market,OXC-014,2026-03-01,1,0,0,0
+Stable Market,OXC-014,2026-04-01,1,0,0,0
+Stable Market,OXC-014,2026-05-01,1,0,0,0
+Stable Market,OXC-014,2026-06-01,1,0,0,0
+Stable Market,OXC-014,2026-07-01,1,0,0,0
+Stable Market,OXC-015,2024-08-01,1,0,0,0
+Stable Market,OXC-015,2024-09-01,1,0,0,0
+Stable Market,OXC-015,2024-10-01,1,0,0,0
+Stable Market,OXC-015,2024-11-01,0,4,0,0
+Stable Market,OXC-015,2024-12-01,1,0,0,0
+Stable Market,OXC-015,2025-01-01,1,0,0,0
+Stable Market,OXC-015,2025-02-01,1,0,0,0
+Stable Market,OXC-015,2025-03-01,1,0,0,0
+Stable Market,OXC-015,2025-04-01,1,0,0,0
+Stable Market,OXC-015,2025-05-01,1,0,0,0
+Stable Market,OXC-015,2025-06-01,1,0,0,0
+Stable Market,OXC-015,2025-07-01,1,0,0,0
+Stable Market,OXC-015,2025-08-01,1,0,0,0
+Stable Market,OXC-015,2025-09-01,1,0,0,0
+Stable Market,OXC-015,2025-10-01,1,0,0,0
+Stable Market,OXC-015,2025-11-01,1,0,0,0
+Stable Market,OXC-015,2025-12-01,1,0,0,0
+Stable Market,OXC-015,2026-01-01,0,5,0,0
+Stable Market,OXC-015,2026-02-01,1,0,0,0
+Stable Market,OXC-015,2026-03-01,1,0,0,0
+Stable Market,OXC-015,2026-04-01,1,0,0,0
+Stable Market,OXC-015,2026-05-01,1,0,0,0
+Stable Market,OXC-015,2026-06-01,1,0,0,0
+Stable Market,OXC-015,2026-07-01,1,0,0,0
+Realistic Baseline,OXC-001,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-001,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-001,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-001,2024-11-01,0,6,0,0
+Realistic Baseline,OXC-001,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-001,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-001,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-001,2025-03-01,0,1,0,0
+Realistic Baseline,OXC-001,2025-04-01,1,0,0,1
+Realistic Baseline,OXC-001,2025-05-01,1,0,0,0
+Realistic Baseline,OXC-001,2025-06-01,1,0,1,0
+Realistic Baseline,OXC-001,2025-07-01,1,0,0,0
+Realistic Baseline,OXC-001,2025-08-01,1,0,0,0
+Realistic Baseline,OXC-001,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-001,2025-10-01,0,10,0,0
+Realistic Baseline,OXC-001,2025-11-01,0,1,0,0
+Realistic Baseline,OXC-001,2025-12-01,0,7,0,0
+Realistic Baseline,OXC-001,2026-01-01,0,15,0,0
+Realistic Baseline,OXC-001,2026-02-01,0,17,0,0
+Realistic Baseline,OXC-001,2026-03-01,1,0,0,0
+Realistic Baseline,OXC-001,2026-04-01,0,14,0,0
+Realistic Baseline,OXC-001,2026-05-01,0,6,0,0
+Realistic Baseline,OXC-001,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-001,2026-07-01,1,0,0,0
+Realistic Baseline,OXC-002,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-002,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-002,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-002,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-002,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-002,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-002,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-002,2025-03-01,1,0,0,0
+Realistic Baseline,OXC-002,2025-04-01,1,0,0,0
+Realistic Baseline,OXC-002,2025-05-01,0,1,0,0
+Realistic Baseline,OXC-002,2025-06-01,0,1,0,0
+Realistic Baseline,OXC-002,2025-07-01,1,0,0,0
+Realistic Baseline,OXC-002,2025-08-01,0,14,0,0
+Realistic Baseline,OXC-002,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-002,2025-10-01,0,6,0,0
+Realistic Baseline,OXC-002,2025-11-01,0,9,0,0
+Realistic Baseline,OXC-002,2025-12-01,1,0,0,0
+Realistic Baseline,OXC-002,2026-01-01,1,0,0,0
+Realistic Baseline,OXC-002,2026-02-01,1,0,0,0
+Realistic Baseline,OXC-002,2026-03-01,1,0,0,0
+Realistic Baseline,OXC-002,2026-04-01,1,0,0,0
+Realistic Baseline,OXC-002,2026-05-01,1,0,0,0
+Realistic Baseline,OXC-002,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-002,2026-07-01,1,0,0,0
+Realistic Baseline,OXC-003,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-003,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-003,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-003,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-003,2024-12-01,0,3,0,0
+Realistic Baseline,OXC-003,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-003,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-003,2025-03-01,0,11,0,1
+Realistic Baseline,OXC-003,2025-04-01,1,0,0,0
+Realistic Baseline,OXC-003,2025-05-01,1,0,0,0
+Realistic Baseline,OXC-003,2025-06-01,0,10,0,0
+Realistic Baseline,OXC-003,2025-07-01,0,6,0,0
+Realistic Baseline,OXC-003,2025-08-01,0,6,0,0
+Realistic Baseline,OXC-003,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-003,2025-10-01,0,3,0,0
+Realistic Baseline,OXC-003,2025-11-01,0,6,0,0
+Realistic Baseline,OXC-003,2025-12-01,0,2,0,0
+Realistic Baseline,OXC-003,2026-01-01,1,0,0,0
+Realistic Baseline,OXC-003,2026-02-01,0,9,0,0
+Realistic Baseline,OXC-003,2026-03-01,0,12,0,0
+Realistic Baseline,OXC-003,2026-04-01,0,2,0,0
+Realistic Baseline,OXC-003,2026-05-01,0,7,0,0
+Realistic Baseline,OXC-003,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-003,2026-07-01,0,10,0,0
+Realistic Baseline,OXC-004,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-004,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-004,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-004,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-004,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-004,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-004,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-004,2025-03-01,1,0,0,1
+Realistic Baseline,OXC-004,2025-04-01,1,0,0,1
+Realistic Baseline,OXC-004,2025-05-01,1,0,0,0
+Realistic Baseline,OXC-004,2025-06-01,0,11,0,0
+Realistic Baseline,OXC-004,2025-07-01,0,5,0,0
+Realistic Baseline,OXC-004,2025-08-01,0,4,0,0
+Realistic Baseline,OXC-004,2025-09-01,0,12,0,0
+Realistic Baseline,OXC-004,2025-10-01,0,14,0,0
+Realistic Baseline,OXC-004,2025-11-01,0,12,0,0
+Realistic Baseline,OXC-004,2025-12-01,0,9,0,0
+Realistic Baseline,OXC-004,2026-01-01,1,0,0,0
+Realistic Baseline,OXC-004,2026-02-01,0,1,0,0
+Realistic Baseline,OXC-004,2026-03-01,0,11,0,0
+Realistic Baseline,OXC-004,2026-04-01,0,9,0,0
+Realistic Baseline,OXC-004,2026-05-01,0,11,0,0
+Realistic Baseline,OXC-004,2026-06-01,0,7,0,0
+Realistic Baseline,OXC-004,2026-07-01,0,6,0,0
+Realistic Baseline,OXC-005,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-005,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-005,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-005,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-005,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-005,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-005,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-005,2025-03-01,1,0,0,0
+Realistic Baseline,OXC-005,2025-04-01,1,0,0,0
+Realistic Baseline,OXC-005,2025-05-01,1,0,0,0
+Realistic Baseline,OXC-005,2025-06-01,1,0,0,0
+Realistic Baseline,OXC-005,2025-07-01,1,0,0,0
+Realistic Baseline,OXC-005,2025-08-01,0,3,0,0
+Realistic Baseline,OXC-005,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-005,2025-10-01,1,0,0,0
+Realistic Baseline,OXC-005,2025-11-01,1,0,0,0
+Realistic Baseline,OXC-005,2025-12-01,1,0,1,0
+Realistic Baseline,OXC-005,2026-01-01,1,0,0,0
+Realistic Baseline,OXC-005,2026-02-01,1,0,0,0
+Realistic Baseline,OXC-005,2026-03-01,1,0,0,0
+Realistic Baseline,OXC-005,2026-04-01,1,0,0,0
+Realistic Baseline,OXC-005,2026-05-01,0,8,0,0
+Realistic Baseline,OXC-005,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-005,2026-07-01,1,0,0,0
+Realistic Baseline,OXC-006,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-006,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-006,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-006,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-006,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-006,2025-01-01,0,2,0,0
+Realistic Baseline,OXC-006,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-006,2025-03-01,1,0,0,0
+Realistic Baseline,OXC-006,2025-04-01,0,1,0,0
+Realistic Baseline,OXC-006,2025-05-01,1,0,1,0
+Realistic Baseline,OXC-006,2025-06-01,0,8,0,0
+Realistic Baseline,OXC-006,2025-07-01,0,14,0,0
+Realistic Baseline,OXC-006,2025-08-01,1,0,0,0
+Realistic Baseline,OXC-006,2025-09-01,0,13,0,0
+Realistic Baseline,OXC-006,2025-10-01,0,15,0,0
+Realistic Baseline,OXC-006,2025-11-01,1,0,0,0
+Realistic Baseline,OXC-006,2025-12-01,0,2,0,0
+Realistic Baseline,OXC-006,2026-01-01,0,4,0,0
+Realistic Baseline,OXC-006,2026-02-01,1,0,0,0
+Realistic Baseline,OXC-006,2026-03-01,0,1,0,0
+Realistic Baseline,OXC-006,2026-04-01,0,13,0,0
+Realistic Baseline,OXC-006,2026-05-01,1,0,0,0
+Realistic Baseline,OXC-006,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-006,2026-07-01,0,3,0,0
+Realistic Baseline,OXC-007,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-007,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-007,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-007,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-007,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-007,2025-01-01,0,18,0,0
+Realistic Baseline,OXC-007,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-007,2025-03-01,1,0,0,0
+Realistic Baseline,OXC-007,2025-04-01,1,0,0,0
+Realistic Baseline,OXC-007,2025-05-01,1,0,0,0
+Realistic Baseline,OXC-007,2025-06-01,1,0,0,0
+Realistic Baseline,OXC-007,2025-07-01,1,0,0,0
+Realistic Baseline,OXC-007,2025-08-01,1,0,0,0
+Realistic Baseline,OXC-007,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-007,2025-10-01,1,0,0,0
+Realistic Baseline,OXC-007,2025-11-01,1,0,0,0
+Realistic Baseline,OXC-007,2025-12-01,1,0,0,0
+Realistic Baseline,OXC-007,2026-01-01,1,0,0,0
+Realistic Baseline,OXC-007,2026-02-01,1,0,0,0
+Realistic Baseline,OXC-007,2026-03-01,0,4,0,0
+Realistic Baseline,OXC-007,2026-04-01,1,0,0,0
+Realistic Baseline,OXC-007,2026-05-01,1,0,0,0
+Realistic Baseline,OXC-007,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-007,2026-07-01,1,0,0,0
+Realistic Baseline,OXC-008,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-008,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-008,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-008,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-008,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-008,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-008,2025-02-01,0,1,0,0
+Realistic Baseline,OXC-008,2025-03-01,1,0,0,0
+Realistic Baseline,OXC-008,2025-04-01,1,0,0,0
+Realistic Baseline,OXC-008,2025-05-01,1,0,0,0
+Realistic Baseline,OXC-008,2025-06-01,1,0,0,0
+Realistic Baseline,OXC-008,2025-07-01,1,0,0,0
+Realistic Baseline,OXC-008,2025-08-01,1,0,0,0
+Realistic Baseline,OXC-008,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-008,2025-10-01,1,0,0,0
+Realistic Baseline,OXC-008,2025-11-01,1,0,1,0
+Realistic Baseline,OXC-008,2025-12-01,0,8,0,0
+Realistic Baseline,OXC-008,2026-01-01,1,0,0,0
+Realistic Baseline,OXC-008,2026-02-01,1,0,0,0
+Realistic Baseline,OXC-008,2026-03-01,1,0,0,0
+Realistic Baseline,OXC-008,2026-04-01,0,10,0,0
+Realistic Baseline,OXC-008,2026-05-01,0,8,0,0
+Realistic Baseline,OXC-008,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-008,2026-07-01,0,14,0,0
+Realistic Baseline,OXC-009,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-009,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-009,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-009,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-009,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-009,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-009,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-009,2025-03-01,1,0,0,0
+Realistic Baseline,OXC-009,2025-04-01,0,4,0,0
+Realistic Baseline,OXC-009,2025-05-01,1,0,0,0
+Realistic Baseline,OXC-009,2025-06-01,1,0,0,0
+Realistic Baseline,OXC-009,2025-07-01,1,0,0,0
+Realistic Baseline,OXC-009,2025-08-01,1,0,0,0
+Realistic Baseline,OXC-009,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-009,2025-10-01,0,12,0,0
+Realistic Baseline,OXC-009,2025-11-01,0,8,0,0
+Realistic Baseline,OXC-009,2025-12-01,0,14,1,0
+Realistic Baseline,OXC-009,2026-01-01,0,10,1,0
+Realistic Baseline,OXC-009,2026-02-01,0,11,0,0
+Realistic Baseline,OXC-009,2026-03-01,1,0,0,0
+Realistic Baseline,OXC-009,2026-04-01,0,12,0,0
+Realistic Baseline,OXC-009,2026-05-01,1,0,0,0
+Realistic Baseline,OXC-009,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-009,2026-07-01,0,13,0,0
+Realistic Baseline,OXC-010,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-010,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-010,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-010,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-010,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-010,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-010,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-010,2025-03-01,0,4,0,0
+Realistic Baseline,OXC-010,2025-04-01,1,0,0,0
+Realistic Baseline,OXC-010,2025-05-01,1,0,0,0
+Realistic Baseline,OXC-010,2025-06-01,0,3,0,0
+Realistic Baseline,OXC-010,2025-07-01,1,0,0,0
+Realistic Baseline,OXC-010,2025-08-01,1,0,0,0
+Realistic Baseline,OXC-010,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-010,2025-10-01,1,0,0,0
+Realistic Baseline,OXC-010,2025-11-01,1,0,0,0
+Realistic Baseline,OXC-010,2025-12-01,1,0,0,0
+Realistic Baseline,OXC-010,2026-01-01,1,0,1,0
+Realistic Baseline,OXC-010,2026-02-01,1,0,0,0
+Realistic Baseline,OXC-010,2026-03-01,1,0,0,0
+Realistic Baseline,OXC-010,2026-04-01,1,0,0,0
+Realistic Baseline,OXC-010,2026-05-01,1,0,0,0
+Realistic Baseline,OXC-010,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-010,2026-07-01,1,0,0,0
+Realistic Baseline,OXC-011,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-011,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-011,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-011,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-011,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-011,2025-01-01,0,6,0,0
+Realistic Baseline,OXC-011,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-011,2025-03-01,1,0,0,0
+Realistic Baseline,OXC-011,2025-04-01,1,0,0,0
+Realistic Baseline,OXC-011,2025-05-01,0,15,0,0
+Realistic Baseline,OXC-011,2025-06-01,1,0,0,0
+Realistic Baseline,OXC-011,2025-07-01,0,5,0,0
+Realistic Baseline,OXC-011,2025-08-01,1,0,0,0
+Realistic Baseline,OXC-011,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-011,2025-10-01,1,0,0,0
+Realistic Baseline,OXC-011,2025-11-01,1,0,0,0
+Realistic Baseline,OXC-011,2025-12-01,1,0,0,0
+Realistic Baseline,OXC-011,2026-01-01,1,0,0,0
+Realistic Baseline,OXC-011,2026-02-01,1,0,0,0
+Realistic Baseline,OXC-011,2026-03-01,1,0,0,0
+Realistic Baseline,OXC-011,2026-04-01,1,0,0,0
+Realistic Baseline,OXC-011,2026-05-01,1,0,0,0
+Realistic Baseline,OXC-011,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-011,2026-07-01,1,0,0,0
+Realistic Baseline,OXC-012,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-012,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-012,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-012,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-012,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-012,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-012,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-012,2025-03-01,1,0,0,0
+Realistic Baseline,OXC-012,2025-04-01,1,0,0,0
+Realistic Baseline,OXC-012,2025-05-01,1,0,0,0
+Realistic Baseline,OXC-012,2025-06-01,1,0,0,0
+Realistic Baseline,OXC-012,2025-07-01,1,0,0,0
+Realistic Baseline,OXC-012,2025-08-01,0,13,0,0
+Realistic Baseline,OXC-012,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-012,2025-10-01,1,0,1,0
+Realistic Baseline,OXC-012,2025-11-01,1,0,0,0
+Realistic Baseline,OXC-012,2025-12-01,0,1,0,0
+Realistic Baseline,OXC-012,2026-01-01,1,0,0,0
+Realistic Baseline,OXC-012,2026-02-01,1,0,0,0
+Realistic Baseline,OXC-012,2026-03-01,1,0,0,0
+Realistic Baseline,OXC-012,2026-04-01,1,0,0,0
+Realistic Baseline,OXC-012,2026-05-01,1,0,0,0
+Realistic Baseline,OXC-012,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-012,2026-07-01,1,0,0,0
+Realistic Baseline,OXC-013,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-013,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-013,2024-10-01,0,11,0,0
+Realistic Baseline,OXC-013,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-013,2024-12-01,0,1,0,0
+Realistic Baseline,OXC-013,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-013,2025-02-01,0,1,0,0
+Realistic Baseline,OXC-013,2025-03-01,1,0,0,0
+Realistic Baseline,OXC-013,2025-04-01,0,16,0,0
+Realistic Baseline,OXC-013,2025-05-01,1,0,1,0
+Realistic Baseline,OXC-013,2025-06-01,0,4,0,0
+Realistic Baseline,OXC-013,2025-07-01,1,0,0,0
+Realistic Baseline,OXC-013,2025-08-01,0,10,0,0
+Realistic Baseline,OXC-013,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-013,2025-10-01,1,0,0,0
+Realistic Baseline,OXC-013,2025-11-01,1,0,0,0
+Realistic Baseline,OXC-013,2025-12-01,1,0,0,0
+Realistic Baseline,OXC-013,2026-01-01,1,0,0,0
+Realistic Baseline,OXC-013,2026-02-01,1,0,0,0
+Realistic Baseline,OXC-013,2026-03-01,1,0,0,0
+Realistic Baseline,OXC-013,2026-04-01,1,0,0,0
+Realistic Baseline,OXC-013,2026-05-01,1,0,0,0
+Realistic Baseline,OXC-013,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-013,2026-07-01,1,0,0,0
+Realistic Baseline,OXC-014,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-014,2024-09-01,1,0,1,0
+Realistic Baseline,OXC-014,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-014,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-014,2024-12-01,0,15,0,0
+Realistic Baseline,OXC-014,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-014,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-014,2025-03-01,1,0,0,0
+Realistic Baseline,OXC-014,2025-04-01,1,0,0,0
+Realistic Baseline,OXC-014,2025-05-01,0,16,0,0
+Realistic Baseline,OXC-014,2025-06-01,1,0,0,0
+Realistic Baseline,OXC-014,2025-07-01,1,0,0,0
+Realistic Baseline,OXC-014,2025-08-01,1,0,0,0
+Realistic Baseline,OXC-014,2025-09-01,0,11,0,0
+Realistic Baseline,OXC-014,2025-10-01,1,0,0,0
+Realistic Baseline,OXC-014,2025-11-01,1,0,0,0
+Realistic Baseline,OXC-014,2025-12-01,1,0,0,0
+Realistic Baseline,OXC-014,2026-01-01,1,0,1,0
+Realistic Baseline,OXC-014,2026-02-01,1,0,0,0
+Realistic Baseline,OXC-014,2026-03-01,1,0,0,0
+Realistic Baseline,OXC-014,2026-04-01,1,0,0,0
+Realistic Baseline,OXC-014,2026-05-01,0,15,0,0
+Realistic Baseline,OXC-014,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-014,2026-07-01,1,0,0,0
+Realistic Baseline,OXC-015,2024-08-01,1,0,0,0
+Realistic Baseline,OXC-015,2024-09-01,1,0,0,0
+Realistic Baseline,OXC-015,2024-10-01,1,0,0,0
+Realistic Baseline,OXC-015,2024-11-01,1,0,0,0
+Realistic Baseline,OXC-015,2024-12-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-01-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-02-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-03-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-04-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-05-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-06-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-07-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-08-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-09-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-10-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-11-01,1,0,0,0
+Realistic Baseline,OXC-015,2025-12-01,1,0,0,0
+Realistic Baseline,OXC-015,2026-01-01,1,0,0,0
+Realistic Baseline,OXC-015,2026-02-01,1,0,0,0
+Realistic Baseline,OXC-015,2026-03-01,1,0,0,0
+Realistic Baseline,OXC-015,2026-04-01,1,0,0,0
+Realistic Baseline,OXC-015,2026-05-01,1,0,0,0
+Realistic Baseline,OXC-015,2026-06-01,1,0,0,0
+Realistic Baseline,OXC-015,2026-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-09-01,0,9,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2025-12-01,0,5,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2026-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2026-03-01,0,4,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2026-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2026-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,2026-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-05-01,0,1,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-09-01,0,4,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2025-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2026-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2026-03-01,0,3,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2026-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2026-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,2026-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2024-08-01,0,9,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2025-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2026-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2026-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2026-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2026-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,2026-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2024-12-01,0,13,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-02-01,1,0,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-03-01,1,0,0,1
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-04-01,1,0,0,1
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-05-01,1,0,0,1
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-06-01,1,0,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-07-01,0,12,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2025-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2026-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2026-03-01,0,8,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2026-04-01,0,14,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2026-05-01,0,1,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2026-06-01,0,8,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,2026-07-01,0,14,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2025-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2026-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2026-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2026-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2026-06-01,1,0,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,2026-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-01-01,0,8,0,1
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-02-01,1,0,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-05-01,0,3,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-06-01,0,13,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-07-01,0,9,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-08-01,0,4,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2025-12-01,0,13,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2026-01-01,0,4,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2026-02-01,0,11,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2026-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2026-04-01,0,11,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2026-05-01,0,2,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2026-06-01,0,5,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,2026-07-01,0,3,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2024-12-01,1,0,0,1
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-04-01,0,1,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-06-01,0,1,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-07-01,0,17,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-10-01,0,9,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-11-01,0,11,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2025-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2026-02-01,0,7,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2026-03-01,0,12,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2026-04-01,0,12,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2026-06-01,0,7,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,2026-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-03-01,0,6,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-06-01,0,11,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2025-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2026-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2026-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2026-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2026-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,2026-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2024-08-01,0,12,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2024-11-01,0,8,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-10-01,0,14,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2025-12-01,1,0,0,1
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2026-02-01,1,0,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2026-03-01,1,0,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2026-04-01,0,8,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2026-06-01,0,7,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,2026-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-02-01,0,1,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-03-01,0,6,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-04-01,0,3,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-05-01,1,0,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-06-01,1,0,0,1
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-07-01,1,0,0,1
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-09-01,1,0,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-10-01,0,10,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-11-01,0,13,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2025-12-01,0,12,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2026-02-01,0,4,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2026-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2026-04-01,0,7,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2026-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,2026-07-01,0,11,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-07-01,0,3,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-09-01,0,2,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2025-12-01,0,12,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2026-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2026-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2026-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2026-05-01,0,12,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2026-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,2026-07-01,0,7,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2025-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2026-02-01,0,5,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2026-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2026-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2026-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,2026-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2024-12-01,0,11,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-07-01,0,7,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-09-01,0,10,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2025-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2026-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2026-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2026-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2026-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,2026-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2024-10-01,1,0,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-02-01,0,1,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-05-01,0,6,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-06-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-08-01,0,7,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-10-01,0,6,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2025-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2026-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2026-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2026-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2026-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2026-06-01,0,17,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,2026-07-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2024-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2024-09-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2024-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2024-11-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2024-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-01-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-02-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-04-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-05-01,0,16,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-06-01,1,0,1,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-07-01,0,5,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-08-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-09-01,0,1,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-10-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-11-01,0,4,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2025-12-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2026-01-01,0,1,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2026-02-01,0,6,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2026-03-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2026-04-01,0,19,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2026-05-01,1,0,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2026-06-01,0,9,0,0
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,2026-07-01,0,15,0,0

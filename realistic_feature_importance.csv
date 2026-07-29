@@ -1,0 +1,46 @@
+feature,importance,environment
+ebitda_margin,0.49808991614540926,Stable Market
+leadership_turnover_event,0.28754618561182355,Stable Market
+revenue_3m_pct_change,0.08723054108742342,Stable Market
+top5_customer_concentration_pct,0.07992671428377521,Stable Market
+accounts_payable_days,0.04720664287156849,Stable Market
+accounts_receivable_days,0.0,Stable Market
+cash_runway_months,0.0,Stable Market
+inventory_turnover_days,0.0,Stable Market
+anomaly_flag,0.0,Stable Market
+monthly_report_submitted_on_time,0.0,Stable Market
+days_late_reporting,0.0,Stable Market
+auditor_changed_event,0.0,Stable Market
+days_late,0.0,Stable Market
+amount_paid_ratio,0.0,Stable Market
+receivable_payable_gap,0.0,Stable Market
+ebitda_margin,0.279046137051526,Realistic Baseline
+cash_runway_months,0.2707254239359188,Realistic Baseline
+inventory_turnover_days,0.21502709074510598,Realistic Baseline
+top5_customer_concentration_pct,0.10899388550200804,Realistic Baseline
+receivable_payable_gap,0.07977341744907684,Realistic Baseline
+accounts_payable_days,0.01732495966776305,Realistic Baseline
+leadership_turnover_event,0.014091995258999332,Realistic Baseline
+revenue_3m_pct_change,0.013383688714084048,Realistic Baseline
+accounts_receivable_days,0.001295761392738067,Realistic Baseline
+monthly_report_submitted_on_time,0.0002910650120549346,Realistic Baseline
+days_late_reporting,4.656015886438283e-05,Realistic Baseline
+days_late,1.5111860436098488e-08,Realistic Baseline
+anomaly_flag,0.0,Realistic Baseline
+auditor_changed_event,0.0,Realistic Baseline
+amount_paid_ratio,0.0,Realistic Baseline
+leadership_turnover_event,0.2585574021786664,"Stressed / Crisis (FX shock, drought, rate spike)"
+top5_customer_concentration_pct,0.24218652560277673,"Stressed / Crisis (FX shock, drought, rate spike)"
+accounts_payable_days,0.1636526602310267,"Stressed / Crisis (FX shock, drought, rate spike)"
+cash_runway_months,0.12646446174984316,"Stressed / Crisis (FX shock, drought, rate spike)"
+receivable_payable_gap,0.053942873427398244,"Stressed / Crisis (FX shock, drought, rate spike)"
+revenue_3m_pct_change,0.051426189758968406,"Stressed / Crisis (FX shock, drought, rate spike)"
+days_late_reporting,0.039256124178511785,"Stressed / Crisis (FX shock, drought, rate spike)"
+inventory_turnover_days,0.027659648547179373,"Stressed / Crisis (FX shock, drought, rate spike)"
+accounts_receivable_days,0.01750127653604214,"Stressed / Crisis (FX shock, drought, rate spike)"
+ebitda_margin,0.013200958752668931,"Stressed / Crisis (FX shock, drought, rate spike)"
+days_late,0.004769127133199104,"Stressed / Crisis (FX shock, drought, rate spike)"
+anomaly_flag,0.0013491133760632982,"Stressed / Crisis (FX shock, drought, rate spike)"
+monthly_report_submitted_on_time,3.363852765561127e-05,"Stressed / Crisis (FX shock, drought, rate spike)"
+auditor_changed_event,0.0,"Stressed / Crisis (FX shock, drought, rate spike)"
+amount_paid_ratio,0.0,"Stressed / Crisis (FX shock, drought, rate spike)"

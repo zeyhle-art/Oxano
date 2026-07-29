@@ -1,0 +1,46 @@
+environment,company_id,company_name,sector,country,investment_type,investment_amount_usd,investment_date,employees_at_investment,simulated_outcome
+Stable Market,OXC-001,Savanna Textiles Ltd,Renewable Energy,Kenya,Equity & Debt,447000,2023-09-01,39,Healthy
+Stable Market,OXC-002,Highland Foods Processing,Agribusiness,Uganda,Debt,327000,2023-08-01,153,Healthy
+Stable Market,OXC-003,Riverbank Steel Works,Agribusiness,Ethiopia,Equity & Debt,394000,2024-02-01,30,Healthy
+Stable Market,OXC-004,AgroFresh Exports,Renewable Energy,Ghana,Debt,364000,2023-01-01,20,Distressed
+Stable Market,OXC-005,SolarGrid East Africa,Agribusiness,Kenya,Equity,300000,2023-01-01,82,Distressed
+Stable Market,OXC-006,Nyati Manufacturing Co,Agribusiness,Kenya,Equity & Debt,510000,2023-01-01,27,Healthy
+Stable Market,OXC-007,Terra Agro Processors,Agribusiness,Uganda,Equity & Debt,308000,2023-12-01,58,Healthy
+Stable Market,OXC-008,Voltix Renewable Systems,Manufacturing,Ethiopia,Debt,353000,2023-08-01,42,Healthy
+Stable Market,OXC-009,Sevi Credit Technologies,Manufacturing,Ghana,Equity & Debt,415000,2024-06-01,196,Distressed
+Stable Market,OXC-010,PesaLink Digital Finance,Tech/Fintech,Kenya,Equity,471000,2023-12-01,199,Healthy
+Stable Market,OXC-011,GreenHarvest Cooperative Supply,Tech/Fintech,Kenya,Equity & Debt,595000,2023-01-01,50,Healthy
+Stable Market,OXC-012,Kilimo Grain Millers,Renewable Energy,Kenya,Debt,481000,2024-05-01,175,Healthy
+Stable Market,OXC-013,BrightPath Solar Solutions,Agribusiness,Kenya,Debt,396000,2024-05-01,32,Healthy
+Stable Market,OXC-014,Delta Packaging Industries,Tech/Fintech,Kenya,Equity,590000,2023-05-01,150,Healthy
+Stable Market,OXC-015,FarmTrust Agritech,Tech/Fintech,Kenya,Equity & Debt,520000,2023-03-01,204,False Alarm (recovered)
+Realistic Baseline,OXC-001,Savanna Textiles Ltd,Agribusiness,Ethiopia,Equity,519000,2023-08-01,170,Distressed
+Realistic Baseline,OXC-002,Highland Foods Processing,Manufacturing,Ethiopia,Debt,310000,2024-02-01,50,Healthy
+Realistic Baseline,OXC-003,Riverbank Steel Works,Agribusiness,Kenya,Equity & Debt,596000,2023-12-01,57,Distressed
+Realistic Baseline,OXC-004,AgroFresh Exports,Tech/Fintech,Kenya,Debt,329000,2023-06-01,115,Distressed
+Realistic Baseline,OXC-005,SolarGrid East Africa,Renewable Energy,Ethiopia,Equity,456000,2023-12-01,48,Healthy
+Realistic Baseline,OXC-006,Nyati Manufacturing Co,Manufacturing,Uganda,Debt,457000,2023-02-01,60,Distressed
+Realistic Baseline,OXC-007,Terra Agro Processors,Renewable Energy,Uganda,Debt,362000,2023-04-01,52,Healthy
+Realistic Baseline,OXC-008,Voltix Renewable Systems,Renewable Energy,Uganda,Equity & Debt,490000,2023-08-01,174,Healthy
+Realistic Baseline,OXC-009,Sevi Credit Technologies,Agribusiness,Kenya,Equity,370000,2023-04-01,47,Distressed
+Realistic Baseline,OXC-010,PesaLink Digital Finance,Manufacturing,Uganda,Equity & Debt,364000,2023-11-01,96,Healthy
+Realistic Baseline,OXC-011,GreenHarvest Cooperative Supply,Renewable Energy,Kenya,Equity,304000,2023-05-01,25,Healthy
+Realistic Baseline,OXC-012,Kilimo Grain Millers,Agribusiness,Kenya,Equity & Debt,575000,2023-09-01,46,False Alarm (recovered)
+Realistic Baseline,OXC-013,BrightPath Solar Solutions,Renewable Energy,Kenya,Debt,430000,2023-11-01,35,Healthy
+Realistic Baseline,OXC-014,Delta Packaging Industries,Agribusiness,Uganda,Equity,354000,2024-06-01,152,Healthy
+Realistic Baseline,OXC-015,FarmTrust Agritech,Agribusiness,Kenya,Debt,540000,2024-04-01,211,Healthy
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-001,Savanna Textiles Ltd,Agribusiness,Uganda,Equity,518000,2023-09-01,161,Healthy
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-002,Highland Foods Processing,Manufacturing,Uganda,Debt,441000,2023-03-01,96,Healthy
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-003,Riverbank Steel Works,Manufacturing,Uganda,Equity & Debt,541000,2023-06-01,179,Healthy
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,AgroFresh Exports,Tech/Fintech,Kenya,Equity,307000,2024-04-01,29,Distressed
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-005,SolarGrid East Africa,Manufacturing,Ghana,Equity & Debt,526000,2023-04-01,219,Healthy
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,Nyati Manufacturing Co,Manufacturing,Ghana,Equity,308000,2023-03-01,78,Distressed
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,Terra Agro Processors,Renewable Energy,Ethiopia,Debt,310000,2023-02-01,57,Distressed
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-008,Voltix Renewable Systems,Agribusiness,Uganda,Equity & Debt,338000,2023-09-01,209,Healthy
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,Sevi Credit Technologies,Agribusiness,Ethiopia,Equity,349000,2024-03-01,128,Distressed
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,PesaLink Digital Finance,Manufacturing,Ghana,Equity,319000,2024-04-01,186,Distressed
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,GreenHarvest Cooperative Supply,Agribusiness,Uganda,Equity,553000,2023-10-01,52,Distressed
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-012,Kilimo Grain Millers,Manufacturing,Kenya,Equity,305000,2024-04-01,109,Healthy
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-013,BrightPath Solar Solutions,Renewable Energy,Ghana,Equity & Debt,405000,2024-04-01,45,False Alarm (recovered)
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-014,Delta Packaging Industries,Manufacturing,Kenya,Debt,432000,2023-10-01,66,False Alarm (recovered)
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,FarmTrust Agritech,Renewable Energy,Ghana,Equity & Debt,476000,2024-03-01,182,Distressed
