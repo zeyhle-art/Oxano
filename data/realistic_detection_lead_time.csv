@@ -1,0 +1,16 @@
+environment,company_id,company_name,event_month,first_high_risk_flag_month,detection_lead_time_months,was_detected_before_event
+Stable Market,OXC-004,AgroFresh Exports,2025-11-01,2025-08-01,3,True
+Stable Market,OXC-005,SolarGrid East Africa,2025-11-01,2025-08-01,3,True
+Stable Market,OXC-009,Sevi Credit Technologies,2025-05-01,2025-02-01,3,True
+Realistic Baseline,OXC-001,Savanna Textiles Ltd,2025-08-01,2025-05-01,3,True
+Realistic Baseline,OXC-003,Riverbank Steel Works,2025-07-01,2025-03-01,4,True
+Realistic Baseline,OXC-004,AgroFresh Exports,2025-08-01,2025-05-01,3,True
+Realistic Baseline,OXC-006,Nyati Manufacturing Co,2025-08-01,2025-05-01,3,True
+Realistic Baseline,OXC-009,Sevi Credit Technologies,2026-03-01,2025-12-01,3,True
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-004,AgroFresh Exports,2025-09-01,2025-06-01,3,True
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-006,Nyati Manufacturing Co,2025-07-01,2025-04-01,3,True
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-007,Terra Agro Processors,2025-06-01,2025-03-01,3,True
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-009,Sevi Credit Technologies,2026-05-01,2026-02-01,3,True
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-010,PesaLink Digital Finance,2025-12-01,2025-09-01,3,True
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-011,GreenHarvest Cooperative Supply,2025-10-01,2025-07-01,3,True
+"Stressed / Crisis (FX shock, drought, rate spike)",OXC-015,FarmTrust Agritech,2025-08-01,2025-05-01,3,True

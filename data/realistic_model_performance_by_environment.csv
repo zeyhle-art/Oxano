@@ -1,0 +1,4 @@
+environment,model_auc_roc,false_positive_rate_high_tier,n_distress_events,n_companies
+Stable Market,0.819,0.0,3,15
+Realistic Baseline,1.0,0.0,5,15
+"Stressed / Crisis (FX shock, drought, rate spike)",0.839,0.0,7,15
